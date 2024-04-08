@@ -1223,6 +1223,7 @@ list.markdown_inline = {
     location = "tree-sitter-markdown-inline",
     files = { "src/parser.c", "src/scanner.c" },
   },
+  filetype = "markdown",
   maintainers = { "@MDeiml" },
   readme_name = "markdown_inline (needed for full highlighting)",
   experimental = true,
